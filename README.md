@@ -1,3 +1,14 @@
+Selamat datang di github saya, silahkan lakukan langkah-langkah dibawah:
+
+1. Download/clone projek saya 2.Extrack projek
+2. Import Database, bisa menggunakan aplikasi laragon, xampp dll dan buat database bernama "pos_devafreshhjuice_bubblesort" lalu import database yang terdapat di folder "@database_laragon"
+3. Jalankan aplikasi laragon
+4. Buka Aplikasi Code Editor lalu open projek lalu pilih projek setelah itu buka terminal di code editor ketikan "php artisan serve"
+5. Nanti akan muncul link untuk mengakses websitenya
+6 Masuk dengan email "admindfj@gmail.com" password "admindfj"
+7. Selesai
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
